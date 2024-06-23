@@ -1,0 +1,2 @@
+# PovertyAlleviationandAgriculturalAssistanceManagementSystem
+ 基于springboot+vue的扶贫助农管理系统：角色分为管理员、用户、店家；集成店铺、商品、扶贫政策等功能于一体的系统
